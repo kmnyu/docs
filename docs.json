@@ -19,7 +19,8 @@
           {
             "group": "Mintlify Take Home Exercise ",
             "pages": [
-              "index"
+              "index",
+              "ResendAnalysis"
             ],
             "icon": "address-card"
           }
