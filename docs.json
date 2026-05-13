@@ -81,7 +81,7 @@
     "drilldown": false
   },
   "background": {
-    "image": "/images/pngtree-minimal-artistic-abstract-background-in-rectangular-shapes-picture-image_1873958.jpg"
+    "decoration": "windows"
   },
   "appearance": {
     "strict": false
